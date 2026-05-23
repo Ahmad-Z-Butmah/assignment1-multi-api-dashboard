@@ -9,6 +9,7 @@ const currencyOptions = ['ILS', 'USD', 'EUR', 'JOD']
 
 
 
+
 function Currency() {
   const [amount, setAmount] = useState('')
   const [fromCurrency, setFromCurrency] = useState('ILS')
