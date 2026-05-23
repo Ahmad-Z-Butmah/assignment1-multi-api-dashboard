@@ -8,7 +8,8 @@ const dashboardItems = [
     description: 'Get current weather by city name.',
     buttonText: 'Open Weather',
     path: '/weather',
-  },
+  },      
+  
   {
     icon: '💱',
     iconClass: 'currency',
