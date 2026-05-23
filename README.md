@@ -8,6 +8,7 @@
 
 ## Project Description
 
+
 This project is a React-built application. It connects to several RESTful web service APIs.
 
 The application, called Multi-API Dashboard, allows the user to:
