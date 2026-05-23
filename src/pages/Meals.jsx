@@ -5,6 +5,7 @@ import ErrorMessage from '../components/ErrorMessage'
 
 
 function getIngredientsFromMeal(mealData) {
+  
   const ingredients = []
 
   for (let index = 1; index <= 20; index++) {
