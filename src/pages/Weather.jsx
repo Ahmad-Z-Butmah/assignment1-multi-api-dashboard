@@ -4,6 +4,7 @@ import Loading from '../components/Loading'
 import ErrorMessage from '../components/ErrorMessage'
 
 const weatherCodes = {
+  
   0: 'Clear sky',
   1: 'Mainly clear',
   2: 'Partly cloudy',
