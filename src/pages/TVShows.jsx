@@ -6,7 +6,8 @@ import ErrorMessage from '../components/ErrorMessage'
 function removeHtmlTags(text) {
   if (!text) {
     return 'No summary available.'
-  }
+  
+
 
   return text.replace(/<[^>]*>/g, '')
 }
